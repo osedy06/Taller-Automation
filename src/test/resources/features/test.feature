@@ -4,7 +4,7 @@
 Feature: Title of your feature
   I want to use this template for my feature file
 
-  @test1
+  @test_1
   Scenario Outline: Automation 1
     Given I want to write a step with precondition
     And some other precondition
@@ -19,3 +19,5 @@ Feature: Title of your feature
       | name  | value | status  |
       | name1 |     5 | success |
       | name2 |     7 | Fail    |
+
+      Hola Roy !!!
